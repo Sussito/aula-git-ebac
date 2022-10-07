@@ -1,7 +1,7 @@
 Dados do aluno
 
 -Primeiro Nome: Gabriel Sussi
--Profissão: QA Tester -> nova profissão
+-Profissão: QA Tester -> nova profissão, atualmente trabalho com contabilidade
 -Cidade: Jundiaí
 -O que faz nas horas vaga: cuido da minha filha, churrasco com família e toma uma cerveja
 -Feedback sobre o curso Qualidade de Software: Meu primeiro contato com o assunto e tem sido gratificante poder aprender tanto, o conteúdo da aula é direto ao ponto, me ajuda muito a entender melhor.
